@@ -7,6 +7,11 @@ src="https://img.shields.io/github/followers/roflus?logo=github&style=for-the-ba
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rolf._.h/)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolf-haring-2946b4240/)
 
+
+<p allign="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&pause=1000&color=A9FB09CD&width=435&lines=Brabantse+Gezelligheid;Programming+Student;Gamer;Workout%2C+Fitness%2C+Health;Music+Enthusiast"
+   alt="Typing SVG" /></a>
+</p>
 - 👋 Hi, I’m @roflus
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
