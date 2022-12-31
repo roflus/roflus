@@ -27,7 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferre"><img 
 src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="30" alt="HTML" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferre"><img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" height="30" alt="CSS" /></a>
+src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" height="30" alt="CSS" /></a>
 <a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img
 src="https://avatars.githubusercontent.com/u/13171334?s=200&v=4" height="30" alt="githubdesktop" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="30" alt="vscode" /></a>
