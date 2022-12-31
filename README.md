@@ -20,9 +20,8 @@ src="https://img.shields.io/github/followers/roflus?logo=github&style=for-the-ba
 <i>Tools, languages, and other things that I like to work with.</i>
 
 
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="C" /></a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferre"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" height="30" alt="C++" /></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferre"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css](https://isocpp.org/files/img/cpp_logo.png)" height="30" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /></a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferre"><img 
