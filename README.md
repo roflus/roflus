@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/roflus?logo=github&style=for-the-ba
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /></a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferre"><img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" height="30" alt="HTML" /></a>
+src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="30" alt="HTML" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferre"><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" height="30" alt="CSS" /></a>
 <a href="https://desktop.github.com/" target="_blank" rel="noreferrer"><img
